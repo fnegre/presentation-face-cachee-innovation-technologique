@@ -1,0 +1,52 @@
+// Variables prédéfinis asciidoc
+:author: Florian Nègre
+:imagesDir: assets/images
+// variables perso
+:twitter: @floriannegre
+:videosDir: assets/videos
+:imageMaxHeight: 700
+
+// Configuration Reveal.js
+:revealjs_history: true
+
+= Test6
+
+* Twitter : {twitter}
+* Github : fnegre
+* Nantes Jug 10/04/2018
+
+== Imaginon4...
+
+video::/{videosDir}/giphy_rick_roll.mp4[options=autoplay]
+
+[NOTE.speaker]
+--
+Mise en scène 1 : Pour quelques utilisateurs, giphy n'affiche plus que des gifs rick roll: oh my god!!
+Faire une video où on va sur le site de Giphy, on cherche cat, et là ça affiche des photos de Trump à la place
+
+Utilisation de Fiddler pour créer un proxy :
+```
+static function OnBeforeRequest(oSession: Session) {
+    if (oSession.uriContains("/media/")) {
+        oSession.fullUrl = "https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif";
+    }
+}
+```
+--
+
+
+
+== Merci
+
+
+[NOTE.speaker]
+--
+Merci et désolé de vous avoir tous rickrollé
+--
+== Questions & infos
+
+https://github.com/fnegre/presentation-open-tracing
+
+Twitter : {twitter}
+
+

@@ -1,0 +1,55 @@
+= Présentation Face cachée de l'innovation technologique
+
+Présentation au format asciidoc, utilisant revealJS.
+
+Présentation visible sur : https://fnegre.github.io/presentation-face-cachee-innovation-technologique/
+
+== Installation en local
+
+.Installation de node
+`via https://nodejs.org/en/`
+
+.Installation application
+`npm i`
+
+== Lancement de la présentation
+
+.Génération du rendu et ouverture du navigateur
+`npm run serve`
+
+.Génération du html
+`npm run build:local`
+
+.Génération du html sans dépendance externe (css ou js)
+`npm run build:prod`
+
+.Déploiement sur la branch gh-pages (pour utilisation Github Pages)
+`npm run deploy`
+
+== Outillage
+
+=== Asciidoctor et Asciidoctor.js
+
+* https://asciidoctor.org/docs/user-manual/
+* https://asciidoctor-docs.netlify.com/asciidoctor.js/
+
+==== Problématiques
+
+Pas de diagramme avec asciidoctor.js : https://github.com/asciidoctor/asciidoctor.js/issues/410
+
+Mise à jour : Attention, on est bloqué sur la version 1.5.6 d'asciidoctor, car les versions suivantes dépendant d'une dépendance non publiée (Opal).
+Il faudra attendre la sortie d'une nouvelle release d'Opal, puis de la version l'embarquant de asciidoctor-reveal.js
+
+=== html-inline
+
+Permet de générer un fichier html indépendant
+
+* https://www.npmjs.com/package/html-inline
+* https://github.com/tschaub/gh-pages
+
+=== Browser-sync 
+
+Permet de mettre à jour le navigateur si la source a été modifiée
+
+https://github.com/BrowserSync/browser-sync
+
