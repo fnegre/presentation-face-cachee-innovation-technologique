@@ -3,49 +3,91 @@
 :imagesDir: assets/images
 // variables perso
 :twitter: @floriannegre
+:github: fnegre
 :videosDir: assets/videos
 :imageMaxHeight: 700
 
 // Configuration Reveal.js
 :revealjs_history: true
 
-= Test6
+= La face cachée de l'innovation technologique
 
 * Twitter : {twitter}
-* Github : fnegre
-* Nantes Jug 10/04/2018
+* Github : {github}
+* TZ 08/03/2019
 
-== Imaginon4...
+== Le temps
 
-video::/{videosDir}/giphy_rick_roll.mp4[options=autoplay]
+=== On n'en n'a jamais assez
+
+== Métaux et terres rares
+
+== Extractivisme
+
+[%notitle]
+== Revue Z 
+image::revue-z.png[Schéma propagation id corrélation]
+
+== Extraction de l'or
+
 
 [NOTE.speaker]
 --
-Mise en scène 1 : Pour quelques utilisateurs, giphy n'affiche plus que des gifs rick roll: oh my god!!
-Faire une video où on va sur le site de Giphy, on cherche cat, et là ça affiche des photos de Trump à la place
 
-Utilisation de Fiddler pour créer un proxy :
-```
-static function OnBeforeRequest(oSession: Session) {
-    if (oSession.uriContains("/media/")) {
-        oSession.fullUrl = "https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif";
-    }
-}
-```
+Environ 30 mg d'or dans un smartphone
 --
 
 
+== Gestion des déchets
+
+[NOTE.speaker]
+--
+TODO voir  https://www.slate.fr/story/126482/smartphone-mine-dor - Une catastrophe si on ne recycle pas
+
+--
+
+== Le recyclage n'est pas la panacée
+
+== Recyclage partiel 
+
+[NOTE.speaker]
+--
+
+Recyclage plus cher que la matière première
+--
+
+== Des conditions sociales précaires
+
+=== Energie Renouvelable != Bonnes conditions sociales
+[NOTE.speaker]
+--
+
+De meilleurs conditions dans les entreprises de l'énergie fossile
+TODO lire https://www.bastamag.net/Salaires-non-payes-nouveaux-contrats-de-travail-imposes-les-etranges-pratiques
+--
+
+== Individuel vs Collectif
+[NOTE.speaker]
+--
+L'utilisateur n'est pas le plus à blamer, mais c'est notre société, notre civilisation qui mise tout sur le progrès.
+
+On fait culpabiliser les individus, alors que les gros pollueurs ce sont les entreprises.
+--
+
+
+== Pour aller plus loin
+
+* https://reporterre.net - Média sur l'écologie
+* http://partage-le.com - Critique socio-écologique radicale
 
 == Merci
 
 
-[NOTE.speaker]
---
-Merci et désolé de vous avoir tous rickrollé
---
+
 == Questions & infos
 
-https://github.com/fnegre/presentation-open-tracing
+* Présentation : https://fnegre.github.io/presentation-face-cachee-innovation-technologique
+* Sources : https://github.com/fnegre/presentation-face-cachee-innovation-technologique
 
 Twitter : {twitter}
 

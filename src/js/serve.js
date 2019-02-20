@@ -1,9 +1,11 @@
 const browserSync = require("browser-sync").create();
 const commons = require("./commons.js")
+const input = "src/doc/index.adoc"
+const output = "src/doc/generated/index.html"
 
-browserSync.watch("*.adoc").on("change", function() {
+browserSync.watch(input).on("change", function() {
   console.log("reloadHtml");
-  commons.convertAdocToHtml()
+  commons.convertAdocToHtml(input, output)
   browserSync.reload()
 });
 
@@ -13,7 +15,7 @@ browserSync.init({
     // nécessaire
   },
   browser: ["chrome"],
-  index: "src/doc/generated/index.html"
+  index: output
 });
 
-commons.convertAdocToHtml("src/doc/index.adoc", "src/doc/generated/index.html")
+commons.convertAdocToHtml(input, output)
