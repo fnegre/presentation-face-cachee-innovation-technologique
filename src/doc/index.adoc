@@ -16,11 +16,34 @@
 * Github : {github}
 * TZ 08/03/2019
 
+[NOTE.speaker]
+--
+
+--
+
 == Le temps
 
 === On n'en n'a jamais assez
 
+[NOTE.speaker]
+--
+
+--
+
+== Mouvement slow 
+
+[NOTE.speaker]
+--
+
+--
+
 == Métaux et terres rares
+
+
+[NOTE.speaker]
+--
+https://lareleveetlapeste.fr/les-terres-rares-le-nouvel-or-noir/
+--
 
 == Extractivisme
 
@@ -72,8 +95,20 @@ TODO lire https://www.bastamag.net/Salaires-non-payes-nouveaux-contrats-de-trava
 L'utilisateur n'est pas le plus à blamer, mais c'est notre société, notre civilisation qui mise tout sur le progrès.
 
 On fait culpabiliser les individus, alors que les gros pollueurs ce sont les entreprises.
+
+Ce n'est pas au niveau individuel, que l'on aura un vrai impact sur la planète, 
 --
 
+== Ecologie -  
+
+Alliance de plusieurs mouvements avec des stratégies/tactiques différentes
+
+[NOTE.speaker]
+--
+https://www.terrestres.org/2018/11/15/la-zad-et-le-colibri-deux-ecologies-irreconciliables/
+--
+
+== Conclusion
 
 == Pour aller plus loin
 
