@@ -21,24 +21,86 @@
 
 --
 
-== Le temps
+== Smarphone Android
 
-=== On n'en n'a jamais assez
-
-[NOTE.speaker]
---
-
---
-
-== Mouvement slow 
+image::htc_magic.jpeg[Photo du HTC Magic]
 
 [NOTE.speaker]
 --
 
+* 1er smartphone Android : HTC Dream (2008)
+* 2ème : HTC Magic (2009) - 320x480
+
 --
 
-== Métaux et terres rares
+== Gagner du temps, vraiment ? 
 
+[NOTE.speaker]
+--
+Exemple Smartphone :
+* Des heures à trouver les bons tutos/rooter/maj OS
+* Des heures à lire des articles inutiles
+* Des heures à jouer
+* Drogue : heures d'utilisation par jour, nb déverouillage par jour... 
+* On ne sait plus se servir de son cerveau
+--
+
+== Toujours plus 
+
+* Plus de progrés
+* Plus de croissance
+
+[NOTE.speaker]
+--
+* Smarphone obsolète car tombe en panne rapidement, ou plus suffisamment puissant
+* Quoi de révolutionnaire en 10 ans ? 
+--
+
+== Stress de la vie moderne 
+
+* Hyperconnexion
+* Restauration rapide
+* Tourisme de masse
+* Consommation 
+* ...
+
+== Mouvement Slow 
+
+* Slow Food
+* Slow Cities
+* Slow Travel 
+* ..
+
+[NOTE.speaker]
+--
+On veut tout, tout de suite! 
+On ne profite pas du moment, on planifie déjà le suivant
+1986 : lancement du Slow Food en italie (qualité, variété, locale, etc.)
+On passe nos journées à travailler afin de gagner de l'argent pour pouvoir consommer : travailler plus pour consommer plus
+Education des enfants : trop d'activité, trop planifié
+Mouvement Slow proche de la décroissance
+Slow city 
+--
+
+== Solutions 
+
+[NOTE.speaker]
+--
+* Application pour limiter l'utilisation du smartphone
+* Ne pas garder son smartphone sur soi à la maison
+* Ne plus avoir de smartphone
+
+--
+
+== Technologie 
+
+[%step]
+* Source de stress 
+* Source de destruction
+
+== Composition d'un smartphone
+
+Métaux et terres rares
 
 [NOTE.speaker]
 --
@@ -61,7 +123,7 @@ Environ 30 mg d'or dans un smartphone
 --
 
 
-== Gestion des déchets
+== Gestion des déchets de l'extraction
 
 [NOTE.speaker]
 --
@@ -71,44 +133,95 @@ TODO voir  https://www.slate.fr/story/126482/smartphone-mine-dor - Une catastrop
 
 == Le recyclage n'est pas la panacée
 
-== Recyclage partiel 
+* Fair Phone 2
+* Recyclage partiel 
 
 [NOTE.speaker]
 --
 
 Recyclage plus cher que la matière première
+Fair Phone 2 : Essaye réduire impact écologique et social - achat de pièces détachées pour réparer son téléphone (batterie, écran, etc.) - origine des métaux identifiée
+→ peu recyclable
+https://www.fairphone.com/nl/2017/02/27/recyclable-fairphone-2/
 --
 
 == Des conditions sociales précaires
 
-=== Energie Renouvelable != Bonnes conditions sociales
 [NOTE.speaker]
 --
-
+Conditions de travail très dures dans les entreprises de recyclage - TODO source recyclage précaire
+Idem dans l'énergie renouvelable 
 De meilleurs conditions dans les entreprises de l'énergie fossile
 TODO lire https://www.bastamag.net/Salaires-non-payes-nouveaux-contrats-de-travail-imposes-les-etranges-pratiques
 --
 
-== Individuel vs Collectif
+== Consommation d'électricité
+
+* Datacenter
+* Transfert des données
+
+== Ecologie - qui est le coupable ?
+
+
 [NOTE.speaker]
 --
 L'utilisateur n'est pas le plus à blamer, mais c'est notre société, notre civilisation qui mise tout sur le progrès.
 
 On fait culpabiliser les individus, alors que les gros pollueurs ce sont les entreprises.
 
-Ce n'est pas au niveau individuel, que l'on aura un vrai impact sur la planète, 
 --
 
-== Ecologie -  
 
+== Ecologie - Comment agir ? 
+
+Actions individuelles vs Collectives
 Alliance de plusieurs mouvements avec des stratégies/tactiques différentes
 
 [NOTE.speaker]
 --
+
+Action individuelle bien, mais loin d'être suffisante
+Mise en avant par le capitalisme
+Ce n'est pas au niveau individuel, que l'on aura un vrai impact sur la planète
+
 https://www.terrestres.org/2018/11/15/la-zad-et-le-colibri-deux-ecologies-irreconciliables/
+
 --
 
+== Ecologie - Actions individuelles
+
+[%step]
+* Réduction des déchets
+* Economie circulaire
+* Boycott 
+* => Peu d'effet
+
+== Ecologie - Actions collectives
+
+[%step]
+* Manifestation
+* Désobéissance civile
+* Luttes locales
+
+[NOTE.speaker]
+--
+
+Exemples de luttes : Larzac, Zad Notre Dame Des Landes, Bure, etc
+--
+
+
 == Conclusion
+
+[NOTE.speaker]
+--
+* Le smartphone, un exemple parmi tant d'autre.
+* Ne pas en avoir : initiative individuelle, peu d'impact sur la planète, mais beaucoup sur ma qualité de vie.
+* Avoir conscience de l'impact de la technologie
+* La technologie n'est pas la solution aux problèmes d'écologie
+* Les technologies vertes sont un mirage, mis en avant afin de continuer à consommer
+* Ecologie militante
+
+--
 
 == Pour aller plus loin
 
