@@ -5,7 +5,8 @@
 :twitter: @floriannegre
 :github: fnegre
 :videosDir: assets/videos
-:imageMaxHeight: 700
+:imageMaxHeight: 500
+
 
 // Configuration Reveal.js
 :revealjs_history: true
@@ -23,7 +24,7 @@
 
 == Mon 1er smarphone
 
-image::htc_magic.jpeg[Photo du HTC Magic]
+image::htc_magic.jpeg[Photo du HTC Magic, height={imageMaxHeight}]
 
 [NOTE.speaker]
 --
@@ -49,7 +50,7 @@ Exemple Smartphone :
 [%notitle]
 == Manif des enfants contre le smartphone des parents
 
-image::manif-enfant-smartphone.jpg[Enfant avec une pancarte protestant contre l'utilisation des smartphones par les parents]
+image::manif-enfant-smartphone.jpg[Enfant avec une pancarte protestant contre l'utilisation des smartphones par les parents, height={imageMaxHeight}]
 
 [verse, un enfant]
 Joue avec moi, pas avec ton téléphone portable 
@@ -115,7 +116,7 @@ De nombreux problèmes écologiques et sociales dans les différentes étapes de
 
 == Composition : Métaux et terres rares
 
-image::smartphone-metaux.png[Métaux entrant dans la composition d'un smartphone]
+image::smartphone-metaux.png[Métaux entrant dans la composition d'un smartphone, height={imageMaxHeight}]
 
 
 [NOTE.speaker]
@@ -128,7 +129,7 @@ http://www.isf-systext.fr/sites/all/animationreveal/mtxsmp/#/
 
 == Extractivisme
 
-image::revue-z.png[Revue Z sur la Guyane]
+image::revue-z.png[Revue Z sur la Guyane, height={imageMaxHeight}]
 
 [NOTE.speaker]
 --
@@ -150,11 +151,10 @@ Différentes étapes :
 --
 
 
-== Une catastrophe écologique et sociale
+== Catastrophe écologique et sociale
 
 [%step]
 * Pollution des sols et de l'eau
-* Catastrophe écologique
 * Oppression des populations locales (déplacement des populations, menaces, assassinats, viols, etc.)
 * Conditions de travail 
 * Consommation importante en eau et électricité
@@ -166,15 +166,16 @@ Différentes étapes :
 * Brésil : lacher d'un barrage - 58 morts et 305 disparus (25/01/2019) - source : https://www.francetvinfo.fr/monde/bresil/bresil-ce-que-l-on-sait-de-la-rupture-d-un-barrage-minier-qui-a-fait-au-moins-neuf-morts-et-300-disparus_3162507.html
 * Brésil : un autre barrage avait laché 3 ans avant, avec une même entreprise impliquée (qui n'a toujours pas payé les indemnités promises)
 TODO voir  https://www.slate.fr/story/126482/smartphone-mine-dor - Une catastrophe si on ne recycle pas
-Montrer : livre "Héros de l'environnement"
+Montrer : livre "Héros de l'environnement" - 207 activistes tués en 2017 - https://reporterre.net/2017-annee-la-plus-meutriere-pour-les-defenseurs-de-l-environnement
 Conditions de travail
 http://www.isf-systext.fr/node/552
 Voir image : synthese-consequences-exploitation-miniere.jpg
 --
 
-== Fabrication du smartphone
+== Fabrication Smartphone
 
 Exemple Samsung : 
+
 * 11 h de travail/jour
 * Moins de 2$ heure
 * Sans assurance
@@ -192,6 +193,7 @@ Santé : substances toxiques (mercure, arsenic)
 * Consommation énergie
 * Construction infrastructure (antennes, cable internet, etc.)
 * Recyclage - exemple du Fairphone 2
+* Obsolescence
 
 [NOTE.speaker]
 --
@@ -214,6 +216,7 @@ La plupart des solutions écologiques mises en avant sont des solutions ne porta
 [%step]
 * Extractivisme
 * Repose sur le pétrole
+* Addition aux énergies fossiles et non substitution
 * Au lieu de moins consommer, on met en avant les énergies renouvelables
 
 [NOTE.speaker]
