@@ -150,7 +150,7 @@ Différentes étapes :
 --
 
 
-== Une catastrophe écologique et social
+== Une catastrophe écologique et sociale
 
 [%step]
 * Pollution des sols et de l'eau
@@ -168,7 +168,8 @@ Différentes étapes :
 TODO voir  https://www.slate.fr/story/126482/smartphone-mine-dor - Une catastrophe si on ne recycle pas
 Montrer : livre "Héros de l'environnement"
 Conditions de travail
-
+http://www.isf-systext.fr/node/552
+Voir image : synthese-consequences-exploitation-miniere.jpg
 --
 
 == Fabrication du smartphone
@@ -328,11 +329,12 @@ Se donner bonne conscience - on fait culpabiliser l'individu
 
 == Pour aller plus loin
 
-* Revue Z 
+* Revue Z - numéro Guyane
 * Livre "Mauvaises mines"
 * Livre "Les héros de l'environnement"
 * https://reporterre.net - Média sur l'écologie
 * http://partage-le.com - Critique socio-écologique radicale
+* http://www.isf-systext.fr - Association Ingénieurs Sans Frontières
 
 == Merci
 
