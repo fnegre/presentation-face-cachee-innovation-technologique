@@ -61,6 +61,7 @@ Joue avec moi, pas avec ton téléphone portable
 8/9/2018 : manif à Hambourg des enfants protestant contre l'utilisation excessive du smartphone par leurs parents
 http://www.2m.ma/fr/news/allemagne-des-enfants-protestent-contre-leurs-parents-accros-a-leurs-smartphones-20180909/
 source image : https://www.faz.net/aktuell/gesellschaft/menschen/kinder-demonstrieren-in-hamburg-gegen-handy-eltern-15777961/am-kinderwagen-der-ein-jahr-15778033.html
+Je veux profiter de ma famille sans être parasité
 --
 
 == Solutions testées/envisagées
@@ -75,7 +76,7 @@ source image : https://www.faz.net/aktuell/gesellschaft/menschen/kinder-demonstr
 
 == Stress de la vie moderne 
 
-Le smartphone : un exemple parmi tant d'autres
+Le smartphone : un symptôme parmi tant d'autres
 
 * Hyperconnexion
 * Restauration rapide
@@ -142,7 +143,7 @@ Vocabulaire :
 
 [NOTE.speaker]
 --
-
+TODO : mettre une photo d'une mine et mettre en avant la taille gigantesque d'une mine
 Environ 30 mg d'or dans un smartphone
 Différentes étapes : 
 * On enlève la roche qui ne nous intéresse pas, afin d'atteindre la roche contenant des métaux => au contact de l'air, provoque la libération de certains métaux (arsenic ou autre) qui polluent
@@ -154,12 +155,11 @@ Différentes étapes :
 == Catastrophe écologique et sociale
 
 [%step]
-* Pollution des sols et de l'eau
-* Oppression des populations locales (déplacement des populations, menaces, assassinats, viols, etc.)
-* Conditions de travail 
 * Consommation importante en eau et électricité
-* Corruption 
-* ...
+* Pollution des sols et de l'eau
+* Oppression des populations locales (déplacement des populations, corruption, menaces, assassinats, etc.)
+* Conditions de travail 
+
 
 [NOTE.speaker]
 --
@@ -197,6 +197,7 @@ Santé : substances toxiques (mercure, arsenic)
 
 [NOTE.speaker]
 --
+TODO : recherche source 5ème consommateur au monde 
 Exemple : infrastructure (antennes, cable internet, etc.)
 --
 
@@ -243,7 +244,6 @@ Jusqu'à 9 sortes de terres rares dans une voiture électrique
 
 [%step]
 * Recyclage partiel
-* Conditions sociales précaires
 * Energivore
 * Non local 
 
@@ -303,14 +303,13 @@ Se donner bonne conscience - on fait culpabiliser l'individu
 == Ecologie - Actions collectives
 
 [%step]
-* Rejoindre un collectif
-* Proposer des alternatives 
+* Porter les alternatives 
 * Luttes (Manifestation, Désobéissance civile, ZAD)
-* Illégalité != Illégitimité
+* Illégalité <> Illégitimité
 
 [NOTE.speaker]
 --
-
+* Exemples de collectif : ANV COP 21, ALternatiba, Extinction Rebellion, etc.
 * Plusieurs niveaux de luttes : politique, juridique, médiatique, physique
 * Exemples de luttes : Larzac, Zad Notre Dame Des Landes, Bure, etc
 * Alliance de plusieurs mouvements avec des stratégies/tactiques différentes
@@ -348,5 +347,4 @@ Se donner bonne conscience - on fait culpabiliser l'individu
 * Sources : https://github.com/fnegre/presentation-face-cachee-innovation-technologique
 
 Twitter : {twitter}
-
 
