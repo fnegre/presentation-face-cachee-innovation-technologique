@@ -28,9 +28,14 @@ Présentation visible sur : https://fnegre.github.io/presentation-face-cachee-in
 
 == Outillage
 
+=== Reveal.js
+
+* https://github.com/hakimel/reveal.js/
+
 === Asciidoctor et Asciidoctor.js
 
 * https://asciidoctor.org/docs/user-manual/
+* https://asciidoctor.org/docs/asciidoctor-revealjs/
 * https://asciidoctor-docs.netlify.com/asciidoctor.js/
 
 ==== Problématiques
