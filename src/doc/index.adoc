@@ -46,6 +46,22 @@ Exemple Smartphone :
 * On ne sait plus se servir de son cerveau
 --
 
+[%notitle]
+== Manif des enfants contre le smartphone des parents
+
+image::manif-enfant-smartphone.jpg[Enfant avec une pancarte protestant contre l'utilisation des smartphones par les parents]
+
+[verse, un enfant]
+Joue avec moi, pas avec ton téléphone portable 
+
+[NOTE.speaker]
+--
+
+8/9/2018 : manif à Hambourg des enfants protestant contre l'utilisation excessive du smartphone par leurs parents
+http://www.2m.ma/fr/news/allemagne-des-enfants-protestent-contre-leurs-parents-accros-a-leurs-smartphones-20180909/
+source image : https://www.faz.net/aktuell/gesellschaft/menschen/kinder-demonstrieren-in-hamburg-gegen-handy-eltern-15777961/am-kinderwagen-der-ein-jahr-15778033.html
+--
+
 == Solutions testées/envisagées
 
 [NOTE.speaker]
@@ -58,11 +74,22 @@ Exemple Smartphone :
 
 == Stress de la vie moderne 
 
+Le smartphone : un exemple parmi tant d'autres
+
 * Hyperconnexion
 * Restauration rapide
 * Tourisme de masse
 * Consommation 
 * ...
+
+[NOTE.speaker]
+--
+On veut tout, tout de suite! 
+On ne profite pas du moment, on planifie déjà le suivant
+
+On passe nos journées à travailler afin de gagner de l'argent pour pouvoir consommer : travailler plus pour consommer plus
+Education des enfants : trop d'activité, trop planifié
+--
 
 == Mouvement Slow 
 
@@ -73,53 +100,101 @@ Exemple Smartphone :
 
 [NOTE.speaker]
 --
-On veut tout, tout de suite! 
-On ne profite pas du moment, on planifie déjà le suivant
 1986 : lancement du Slow Food en italie (qualité, variété, locale, etc.)
-On passe nos journées à travailler afin de gagner de l'argent pour pouvoir consommer : travailler plus pour consommer plus
-Education des enfants : trop d'activité, trop planifié
 Mouvement Slow proche de la décroissance
-* Voir Revue Ravages - 
+Voir Revue Ravages - n°7
+Slow city : Déplacement doux
 --
 
-== Technologie 
-
-[%step]
-* Source de stress 
-* Source de destruction
-
-== Composition d'un smartphone
-
-Métaux et terres rares
+== Et l'aspect écologique ? 
 
 [NOTE.speaker]
 --
+De nombreux problèmes écologiques et sociales dans les différentes étapes de la fabrication d'un smartphone jusqu'à son utilisation
+--
+
+== Composition : Métaux et terres rares
+
+image::smartphone-metaux.png[Métaux entrant dans la composition d'un smartphone]
+
+
+[NOTE.speaker]
+--
+Quelques métaux : Indium, Terbium, Silicium, Or, etc.
+Image : http://www.isf-systext.fr/sites/default/files/field/image/IMG_ART_Outil-Metaux-Smartphone_Mai2017.png
 https://lareleveetlapeste.fr/les-terres-rares-le-nouvel-or-noir/
 http://www.isf-systext.fr/sites/all/animationreveal/mtxsmp/#/
 --
 
 == Extractivisme
 
-[%notitle]
-== Revue Z 
-image::revue-z.png[Schéma propagation id corrélation]
+image::revue-z.png[Revue Z sur la Guyane]
+
+[NOTE.speaker]
+--
+Vocabulaire : 
+* Junior : entreprise qui prospecte, puis qui se fait racheter ou vend le permis
+* Senior : Entreprise qui va gérer la production
+--
 
 == Extraction de l'or
-
 
 [NOTE.speaker]
 --
 
 Environ 30 mg d'or dans un smartphone
+Différentes étapes : 
+* On enlève la roche qui ne nous intéresse pas, afin d'atteindre la roche contenant des métaux => au contact de l'air, provoque la libération de certains métaux (arsenic ou autre) qui polluent
+* On explose la roche à la dynamite
+* Utilisation 
 --
 
 
-== Gestion des déchets de l'extraction
+== Une catastrophe écologique et social
+
+[%step]
+* Pollution des sols et de l'eau
+* Catastrophe écologique
+* Oppression des populations locales (déplacement des populations, menaces, assassinats, viols, etc.)
+* Conditions de travail 
+* Consommation importante en eau et électricité
+* Corruption 
+* ...
 
 [NOTE.speaker]
 --
+* Brésil : lacher d'un barrage - 58 morts et 305 disparus (25/01/2019) - source : https://www.francetvinfo.fr/monde/bresil/bresil-ce-que-l-on-sait-de-la-rupture-d-un-barrage-minier-qui-a-fait-au-moins-neuf-morts-et-300-disparus_3162507.html
+* Brésil : un autre barrage avait laché 3 ans avant, avec une même entreprise impliquée (qui n'a toujours pas payé les indemnités promises)
 TODO voir  https://www.slate.fr/story/126482/smartphone-mine-dor - Une catastrophe si on ne recycle pas
+Montrer : livre "Héros de l'environnement"
+Conditions de travail
 
+--
+
+== Fabrication du smartphone
+
+Exemple Samsung : 
+* 11 h de travail/jour
+* Moins de 2$ heure
+* Sans assurance
+* Travail des enfants
+* Risque pour la santé
+
+[NOTE.speaker]
+--
+http://www.lefigaro.fr/societes/2015/12/17/20005-20151217ARTFIG00139-une-ong-francaise-denonce-les-conditions-de-travail-chez-samsung.php
+Santé : substances toxiques (mercure, arsenic)
+--
+
+== Problématiques de l'utilisation du smartphone
+
+* Consommation énergie
+* Construction infrastructure (antennes, cable internet, etc.)
+* Recyclage - exemple du Fairphone 2
+
+[NOTE.speaker]
+--
+Exemple : infrastructure (antennes, cable internet, etc.)
 --
 
 == Les faux amis de l'écologie
@@ -136,8 +211,9 @@ La plupart des solutions écologiques mises en avant sont des solutions ne porta
 == Les énergies renouvelables
 
 [%step]
-* Extractions Métaux
+* Extractivisme
 * Repose sur le pétrole
+* Au lieu de moins consommer, on met en avant les énergies renouvelables
 
 [NOTE.speaker]
 --
@@ -150,7 +226,9 @@ Voir : https://deepgreenresistance.fr/illusion-technologies-vertes/
 
 [%step]
 * Terres rares
+* Déplacement de la pollution
 * Electricité : Déchets nucléaires
+
 
 [NOTE.speaker]
 --
@@ -163,6 +241,7 @@ Jusqu'à 9 sortes de terres rares dans une voiture électrique
 * Recyclage partiel
 * Conditions sociales précaires
 * Energivore
+* Non local 
 
 [NOTE.speaker]
 --
@@ -177,31 +256,28 @@ Conditions de travail très dures dans les entreprises de recyclage - TODO sourc
 Idem dans l'énergie renouvelable 
 De meilleurs conditions dans les entreprises de l'énergie fossile
 TODO lire https://www.bastamag.net/Salaires-non-payes-nouveaux-contrats-de-travail-imposes-les-etranges-pratiques
+
+* L'Union européenne (UE) exporte la moitié de ses plastiques collectés et triés, dont 85% vers la Chine. Les Etats-Unis ont eux envoyé en 2016 en Chine plus de la moitié de leurs exportations de déchets de métaux non ferreux, papiers et plastiques, soit 16,2 millions de tonnes.
+https://www.ouest-france.fr/economie/dechets-la-chine-ferme-sa-poubelle-panique-dans-les-pays-riches-5514882
 --
 
-== Consommation d'électricité
-
-* Datacenter
-* Transfert des données
-
 == Ecologie - qui est le coupable ?
-
 
 [NOTE.speaker]
 --
 L'utilisateur n'est pas le plus à blamer, mais c'est notre société, notre civilisation qui mise tout sur le progrès.
 
 On fait culpabiliser les individus, alors que les gros pollueurs ce sont les entreprises.
-
 --
 
 
 == Ecologie - Comment agir ? 
 
-
 == Ecologie - Actions individuelles
 
 [%step]
+* Recyclage
+* Déplacement à vélo
 * Réduction des déchets
 * Economie circulaire
 * Boycott 
@@ -216,45 +292,33 @@ Ce n'est pas au niveau individuel, que l'on aura un vrai impact sur la planète
 
 https://www.terrestres.org/2018/11/15/la-zad-et-le-colibri-deux-ecologies-irreconciliables/
 
-Se donner bonne conscience
+Se donner bonne conscience - on fait culpabiliser l'individu
 
 --
 
 == Ecologie - Actions collectives
 
 [%step]
-* ONG et collectifs
-* Manifestation
-* Désobéissance civile
-* Luttes locales
-* ... 
+* Rejoindre un collectif
+* Proposer des alternatives 
+* Luttes (Manifestation, Désobéissance civile, ZAD)
+* Illégalité != Illégitimité
 
 [NOTE.speaker]
 --
 
-* Plusieurs niveaux de luttes : politique, juridique, médiatique, phyisique
+* Plusieurs niveaux de luttes : politique, juridique, médiatique, physique
 * Exemples de luttes : Larzac, Zad Notre Dame Des Landes, Bure, etc
 * Alliance de plusieurs mouvements avec des stratégies/tactiques différentes
---
-
-== Toujours plus 
-
-* Plus de progrés
-* Plus de croissance
-* Plus rapide
-
-[NOTE.speaker]
---
-* Smarphone obsolète car tombe en panne rapidement, ou plus suffisamment puissant
-* Quoi de révolutionnaire en 10 ans ? 
 --
 
 == Conclusion
 
 [NOTE.speaker]
 --
+* Société basée sur le progrès technique perpétuelle sans réfléchir à l'intérêt (exemple : TV 8K, réseau 5G)
 * Le smartphone, un exemple parmi tant d'autre.
-* Ne pas avoir de smartphoone : initiative individuelle, peu d'impact sur la planète, mais beaucoup sur ma qualité de vie.
+* Ne pas avoir de smartphone : initiative individuelle, peu d'impact sur la planète, mais beaucoup sur ma qualité de vie.
 * Avoir conscience de l'impact de la technologie
 * La technologie n'est pas la solution aux problèmes d'écologie
 * Les technologies vertes sont un mirage, mis en avant afin de continuer à consommer
@@ -264,11 +328,13 @@ Se donner bonne conscience
 
 == Pour aller plus loin
 
+* Revue Z 
+* Livre "Mauvaises mines"
+* Livre "Les héros de l'environnement"
 * https://reporterre.net - Média sur l'écologie
 * http://partage-le.com - Critique socio-écologique radicale
 
 == Merci
-
 
 
 == Questions & infos
