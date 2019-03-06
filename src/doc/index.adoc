@@ -15,7 +15,7 @@
 
 * Twitter : {twitter}
 * Github : {github}
-* TZ 08/03/2019
+* TZ de l'Ouest - 08/03/2019
 
 [NOTE.speaker]
 --
@@ -31,20 +31,21 @@ image::htc_magic.jpeg[Photo du HTC Magic, height={imageMaxHeight}]
 
 * 1er smartphone Android sorti en France : HTC Dream (2008)
 * 2ème : HTC Magic (2009) - 320x480
-
+* Impatient de découvrir Android, de pouvoir lire mes mails, aller sur internet, etc.
 --
 
 == Gagner du temps, vraiment ? 
 
 [NOTE.speaker]
 --
-Exemple Smartphone :
+
 * Des heures à trouver les bons tutos/rooter/maj OS
 * Des heures à lire des articles inutiles
 * Des heures à jouer
 * Drogue : heures d'utilisation par jour, nb déverouillage par jour... 
 * Devient très lent avec les mises à jour de l'OS et certaines applications
 * On ne sait plus se servir de son cerveau
+Transition slide suivant : je m'en suis surtout rendu compte avec la naissance de mon enfant
 --
 
 [%notitle]
@@ -58,13 +59,15 @@ Joue avec moi, pas avec ton téléphone portable
 [NOTE.speaker]
 --
 
-8/9/2018 : manif à Hambourg des enfants protestant contre l'utilisation excessive du smartphone par leurs parents
-http://www.2m.ma/fr/news/allemagne-des-enfants-protestent-contre-leurs-parents-accros-a-leurs-smartphones-20180909/
-source image : https://www.faz.net/aktuell/gesellschaft/menschen/kinder-demonstrieren-in-hamburg-gegen-handy-eltern-15777961/am-kinderwagen-der-ein-jahr-15778033.html
-Je veux profiter de ma famille sans être parasité
+* 8/9/2018 : manif à Hambourg des enfants protestant contre l'utilisation excessive du smartphone par leurs parents
+* Je veux profiter de ma famille sans être parasité
+* Détails manif : http://www.2m.ma/fr/news/allemagne-des-enfants-protestent-contre-leurs-parents-accros-a-leurs-smartphones-20180909/ 
+* source image : https://www.faz.net/aktuell/gesellschaft/menschen/kinder-demonstrieren-in-hamburg-gegen-handy-eltern-15777961/am-kinderwagen-der-ein-jahr-15778033.html
 --
 
-== Solutions testées/envisagées
+== Quelques solutions 
+
+image::smartphone-mixeur.jpg[Smartphone dans un mixer, height={imageMaxHeight}]
 
 [NOTE.speaker]
 --
@@ -87,6 +90,7 @@ Le smartphone : un symptôme parmi tant d'autres
 [NOTE.speaker]
 --
 On veut tout, tout de suite! 
+
 On ne profite pas du moment, on planifie déjà le suivant
 
 On passe nos journées à travailler afin de gagner de l'argent pour pouvoir consommer : travailler plus pour consommer plus
@@ -102,13 +106,15 @@ Education des enfants : trop d'activité, trop planifié
 
 [NOTE.speaker]
 --
-1986 : lancement du Slow Food en italie (qualité, variété, locale, etc.)
-Mouvement Slow proche de la décroissance
-Voir Revue Ravages - n°7
-Slow city : Déplacement doux
+* 1986 : lancement du Slow Food en italie (qualité, variété, locale, etc.)
+* Mouvement Slow proche de la décroissance
+* Slow city : Déplacement doux
+* Slow Education 
+* Voir Revue Ravages - n°7
+* Transition : on a parlé de l'impact individuel du smartphone, mais qu'en est il de l'impact écologique
 --
 
-== Et l'aspect écologique ? 
+== Et quels impacts écologiques des Smartphones ? 
 
 [NOTE.speaker]
 --
@@ -122,33 +128,61 @@ image::smartphone-metaux.png[Métaux entrant dans la composition d'un smartphone
 
 [NOTE.speaker]
 --
-Quelques métaux : Indium, Terbium, Silicium, Or, etc.
-Image : http://www.isf-systext.fr/sites/default/files/field/image/IMG_ART_Outil-Metaux-Smartphone_Mai2017.png
-https://lareleveetlapeste.fr/les-terres-rares-le-nouvel-or-noir/
-http://www.isf-systext.fr/sites/all/animationreveal/mtxsmp/#/
+Quelques métaux : 
+
+* Indium
+* Terbium
+* Silicium
+* Or
+
+* Image : http://www.isf-systext.fr/sites/default/files/field/image/IMG_ART_Outil-Metaux-Smartphone_Mai2017.png
+* https://lareleveetlapeste.fr/les-terres-rares-le-nouvel-or-noir/
+* http://www.isf-systext.fr/sites/all/animationreveal/mtxsmp/#/
 --
 
 == Extractivisme
 
-image::revue-z.png[Revue Z sur la Guyane, height={imageMaxHeight}]
+image::bagger_288_allemagne.jpg[Revue Z sur la Guyane, height={imageMaxHeight}]
 
 [NOTE.speaker]
 --
+* Bagger 288
+* Excavatrice géante à roue à godets allemande
+* N'est pas la plus grande
+* A Hambach (extraction Lignite)
+* 13 500 tonnes
+* 240 mètres de long pour 96 mètres de haut
+*  Capable de déblayer jusqu'à 240 000 tonnes par jour
+* https://fr.wikipedia.org/wiki/Bagger_288
+
 Vocabulaire : 
+
 * Junior : entreprise qui prospecte, puis qui se fait racheter ou vend le permis
 * Senior : Entreprise qui va gérer la production
+* Stérile : 
+
 --
 
 == Extraction de l'or
 
+image::mine-open-pit.jpg[Pit Fimiston Open, Plus grande mine d'Australie, height={imageMaxHeight}]
+
 [NOTE.speaker]
 --
-TODO : mettre une photo d'une mine et mettre en avant la taille gigantesque d'une mine
+
+Pit Fimiston Open : Plus grande mine Australienne :
+
+* 3,5 km de long, 1,5 km de large et 360 m de profondeur - il est assez gros pour être vus de l'espac
+* Source image : https://www.superpit.com.au/publications/about-us-history-aerial-fimsiton-open-pit-jul-3-14-114-2/
+
+Montagne d'or guyane : 
+
+* Estimation 1,73 g/t 
+* La fosse prévue devrait être de 2,5 kilomètres sur 400 mètres, profondeur de 120 mètres 
+* Terrain de foot : 105 x 68m. Soit *140 terrains de foot*
+* Estimation potentiel 85 t d ’or (issues de 54 millions de tonnes de minerai)
+
 Environ 30 mg d'or dans un smartphone
-Différentes étapes : 
-* On enlève la roche qui ne nous intéresse pas, afin d'atteindre la roche contenant des métaux => au contact de l'air, provoque la libération de certains métaux (arsenic ou autre) qui polluent
-* On explose la roche à la dynamite
-* Utilisation 
 --
 
 
@@ -156,20 +190,31 @@ Différentes étapes :
 
 [%step]
 * Consommation importante en eau et électricité
+* Conditions de travail 
 * Pollution des sols et de l'eau
 * Oppression des populations locales (déplacement des populations, corruption, menaces, assassinats, etc.)
-* Conditions de travail 
 
 
 [NOTE.speaker]
 --
+* Energie : Construction de barrages pour alimenter la mine avec tous les dommages liés
+* Montagne d'or : tarif préférentiel énergie (tarif métropole alors que la centrale thermique au fuel) - Le WWF estime l'ensemble des subventions et financements prévus à 420 millions d'euros, payés par les contribuables
+* Eau : 460 000 litres / heure (montagne d'or)
+
 * Brésil : lacher d'un barrage - 58 morts et 305 disparus (25/01/2019) - source : https://www.francetvinfo.fr/monde/bresil/bresil-ce-que-l-on-sait-de-la-rupture-d-un-barrage-minier-qui-a-fait-au-moins-neuf-morts-et-300-disparus_3162507.html
 * Brésil : un autre barrage avait laché 3 ans avant, avec une même entreprise impliquée (qui n'a toujours pas payé les indemnités promises)
+
+* 207 activistes tués en 2017
+
 TODO voir  https://www.slate.fr/story/126482/smartphone-mine-dor - Une catastrophe si on ne recycle pas
-Montrer : livre "Héros de l'environnement" - 207 activistes tués en 2017 - https://reporterre.net/2017-annee-la-plus-meutriere-pour-les-defenseurs-de-l-environnement
+Montrer : livre "Héros de l'environnement" -  https://reporterre.net/2017-annee-la-plus-meutriere-pour-les-defenseurs-de-l-environnement
 Conditions de travail
 http://www.isf-systext.fr/node/552
 Voir image : synthese-consequences-exploitation-miniere.jpg
+
+https://fr.wikipedia.org/wiki/Montagne_d%27or_%28mine%29#Utilisation_d'eau
+
+* Transition slide : Revenons à notre smartphone et aux conditions de fabrication
 --
 
 == Fabrication Smartphone
@@ -197,15 +242,17 @@ Santé : substances toxiques (mercure, arsenic)
 
 [NOTE.speaker]
 --
-TODO : recherche source 5ème consommateur au monde 
-Exemple : infrastructure (antennes, cable internet, etc.)
+* Internet : Si Internet était un pays il serait le 5ème consommateur mondial d’électricité
+* Source : https://www.wedogood.co/wp-content/uploads/2013/04/2016-02-CP-Event-Green-IT.pdf
+* Plus de *60 000 Antennes relais en france* http://www.mobile-users.net/antennes_mobiles/
+* Transition : Les solutions proposées sont elles les bonnes ?
 --
 
 == Les faux amis de l'écologie
 
 [verse, Kenneth Boulding]
-Celui qui croit que la croissance peut être infinie dans un monde fini est
-soit un fou, soit un économiste.
+Celui qui croit que la croissance peut être infinie dans un monde fini 
+est soit un fou, soit un économiste.
 
 [NOTE.speaker]
 --
@@ -249,6 +296,7 @@ Jusqu'à 9 sortes de terres rares dans une voiture électrique
 
 [NOTE.speaker]
 --
+* C'est important de recycler 
 * Recyclage partiel : 
 Recyclage plus cher que la matière première
 Exemple Fair Phone 2 : Essaye réduire impact écologique et social - achat de pièces détachées pour réparer son téléphone (batterie, écran, etc.) - origine des métaux identifiée
@@ -267,11 +315,13 @@ https://www.ouest-france.fr/economie/dechets-la-chine-ferme-sa-poubelle-panique-
 
 == Ecologie - qui est le coupable ?
 
+image::coupable.jpg[Gros Doigt montrant un individu, height={imageMaxHeight}]
+
 [NOTE.speaker]
 --
-L'utilisateur n'est pas le plus à blamer, mais c'est notre société, notre civilisation qui mise tout sur le progrès.
-
-On fait culpabiliser les individus, alors que les gros pollueurs ce sont les entreprises.
+* L'utilisateur n'est pas le plus à blamer, mais c'est notre société
+* notre civilisation qui mise tout sur le progrès.
+* On fait culpabiliser les individus, alors que l'état et les entreprises nous poussent à consommer
 --
 
 
@@ -284,19 +334,18 @@ On fait culpabiliser les individus, alors que les gros pollueurs ce sont les ent
 * Déplacement à vélo
 * Réduction des déchets
 * Economie circulaire
+* Réduire sa consommation de viande
 * Boycott 
-* => Peu d'effet
+* => Bien mais insuffisant
 
 [NOTE.speaker]
 --
 
-Action individuelle bien, mais loin d'être suffisante
-Mise en avant par le capitalisme
-Ce n'est pas au niveau individuel, que l'on aura un vrai impact sur la planète
-
-https://www.terrestres.org/2018/11/15/la-zad-et-le-colibri-deux-ecologies-irreconciliables/
-
-Se donner bonne conscience - on fait culpabiliser l'individu
+* Action individuelle bien, mais loin d'être suffisante
+* Mise en avant par le capitalisme
+* Ce n'est pas au niveau individuel, que l'on aura un vrai impact sur la planète
+* https://www.terrestres.org/2018/11/15/la-zad-et-le-colibri-deux-ecologies-irreconciliables/
+* Se donner bonne conscience - on fait culpabiliser l'individu
 
 --
 
@@ -326,6 +375,7 @@ Se donner bonne conscience - on fait culpabiliser l'individu
 * La technologie n'est pas la solution aux problèmes d'écologie
 * Les technologies vertes sont un mirage, mis en avant afin de continuer à consommer
 * Ecologie militante, esprit de résistance
+* Illégal mais légitime : Noirs dans les bus réservés aux blanc, résistance 2nde GM, Agent EDF qui ne coupe pas l'électricité
 
 --
 
@@ -333,13 +383,13 @@ Se donner bonne conscience - on fait culpabiliser l'individu
 
 * Revue Z - numéro Guyane
 * Livre "Mauvaises mines"
+* http://www.isf-systext.fr - Association Ingénieurs Sans Frontières
 * Livre "Les héros de l'environnement"
 * https://reporterre.net - Média sur l'écologie
 * http://partage-le.com - Critique socio-écologique radicale
-* http://www.isf-systext.fr - Association Ingénieurs Sans Frontières
 
 == Merci
-
+image::merci-patron.jpg[Affiche du film Merci Patron de François Ruffin, height={imageMaxHeight}]
 
 == Questions & infos
 
