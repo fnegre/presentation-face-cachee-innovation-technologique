@@ -45,7 +45,7 @@ image::htc_magic.jpeg[Photo du HTC Magic, height={imageMaxHeight}]
 * Drogue : heures d'utilisation par jour, nb déverouillage par jour... 
 * Devient très lent avec les mises à jour de l'OS et certaines applications
 * On ne sait plus se servir de son cerveau
-Transition slide suivant : je m'en suis surtout rendu compte avec la naissance de mon enfant
+* Transition slide suivant : je m'en suis surtout rendu compte avec la naissance de mon enfant
 --
 
 [%notitle]
@@ -89,12 +89,10 @@ Le smartphone : un symptôme parmi tant d'autres
 
 [NOTE.speaker]
 --
-On veut tout, tout de suite! 
-
-On ne profite pas du moment, on planifie déjà le suivant
-
-On passe nos journées à travailler afin de gagner de l'argent pour pouvoir consommer : travailler plus pour consommer plus
-Education des enfants : trop d'activité, trop planifié
+* On veut tout, tout de suite! 
+* On ne profite pas du moment, on planifie déjà le suivant
+* On passe nos journées à travailler afin de gagner de l'argent pour pouvoir consommer : travailler plus pour consommer plus
+* Education des enfants : trop d'activité, trop planifié
 --
 
 == Mouvement Slow 
@@ -114,7 +112,7 @@ Education des enfants : trop d'activité, trop planifié
 * Transition : on a parlé de l'impact individuel du smartphone, mais qu'en est il de l'impact écologique
 --
 
-== Et quels impacts écologiques des Smartphones ? 
+== Le Smartphone : quels impacts sur la planète ? 
 
 [NOTE.speaker]
 --
@@ -135,6 +133,7 @@ Quelques métaux :
 * Silicium
 * Or
 
+* 17 terres rares
 * Image : http://www.isf-systext.fr/sites/default/files/field/image/IMG_ART_Outil-Metaux-Smartphone_Mai2017.png
 * https://lareleveetlapeste.fr/les-terres-rares-le-nouvel-or-noir/
 * http://www.isf-systext.fr/sites/all/animationreveal/mtxsmp/#/
@@ -270,21 +269,23 @@ La plupart des solutions écologiques mises en avant sont des solutions ne porta
 [NOTE.speaker]
 --
 
-néodyme dans les éoliennes
+* Métaux : néodyme dans les éoliennes
 Voir : https://deepgreenresistance.fr/illusion-technologies-vertes/
+* Enorménement subventionné
 --
 
 == La voiture électrique
 
 [%step]
-* Terres rares
+* Extractivisme : Terres rares
 * Déplacement de la pollution
 * Electricité : Déchets nucléaires
 
 
 [NOTE.speaker]
 --
-Jusqu'à 9 sortes de terres rares dans une voiture électrique
+* Jusqu'à 9 sortes de terres rares dans une voiture électrique
+* Fabrication beaucoup plus énergivore qu'une voiture essence
 --
 
 == Le recyclage
@@ -302,15 +303,15 @@ Recyclage plus cher que la matière première
 Exemple Fair Phone 2 : Essaye réduire impact écologique et social - achat de pièces détachées pour réparer son téléphone (batterie, écran, etc.) - origine des métaux identifiée
 → peu recyclable
 https://www.fairphone.com/nl/2017/02/27/recyclable-fairphone-2/
-
-* Des conditions sociales précaires :
-Conditions de travail très dures dans les entreprises de recyclage - TODO source recyclage précaire
-Idem dans l'énergie renouvelable 
-De meilleurs conditions dans les entreprises de l'énergie fossile
-TODO lire https://www.bastamag.net/Salaires-non-payes-nouveaux-contrats-de-travail-imposes-les-etranges-pratiques
-
+* Des conditions sociales précaires
 * L'Union européenne (UE) exporte la moitié de ses plastiques collectés et triés, dont 85% vers la Chine. Les Etats-Unis ont eux envoyé en 2016 en Chine plus de la moitié de leurs exportations de déchets de métaux non ferreux, papiers et plastiques, soit 16,2 millions de tonnes.
 https://www.ouest-france.fr/economie/dechets-la-chine-ferme-sa-poubelle-panique-dans-les-pays-riches-5514882
+* Transition : beaucoup d'autres exemples possibles (biocarburant   )
+
+Conditions de travail très dures dans les entreprises de recyclage - 
+Idem dans l'énergie renouvelable 
+De meilleurs conditions dans les entreprises de l'énergie fossile
+lire https://www.bastamag.net/Salaires-non-payes-nouveaux-contrats-de-travail-imposes-les-etranges-pratiques
 --
 
 == Ecologie - qui est le coupable ?
@@ -362,6 +363,7 @@ image::coupable.jpg[Gros Doigt montrant un individu, height={imageMaxHeight}]
 * Plusieurs niveaux de luttes : politique, juridique, médiatique, physique
 * Exemples de luttes : Larzac, Zad Notre Dame Des Landes, Bure, etc
 * Alliance de plusieurs mouvements avec des stratégies/tactiques différentes
+* Illégal mais légitime : Noirs dans les bus réservés aux blanc, résistance 2nde GM, Agent EDF qui ne coupe pas l'électricité
 --
 
 == Conclusion
@@ -375,7 +377,6 @@ image::coupable.jpg[Gros Doigt montrant un individu, height={imageMaxHeight}]
 * La technologie n'est pas la solution aux problèmes d'écologie
 * Les technologies vertes sont un mirage, mis en avant afin de continuer à consommer
 * Ecologie militante, esprit de résistance
-* Illégal mais légitime : Noirs dans les bus réservés aux blanc, résistance 2nde GM, Agent EDF qui ne coupe pas l'électricité
 
 --
 

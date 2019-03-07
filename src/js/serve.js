@@ -14,7 +14,7 @@ browserSync.init({
   server: {
     // nécessaire
   },
-  browser: ["chrome"],
+  browser: ["chrome", "firefox"],
   index: output
 });
 
